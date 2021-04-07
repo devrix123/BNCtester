@@ -1,5 +1,5 @@
 # BNCtester
-Program Untuk Menilai Seberapa Kentang Hp Kamu 
+Program Untuk Menilai Seberapa Kentang Perangkat Kamu 
 
 
 
