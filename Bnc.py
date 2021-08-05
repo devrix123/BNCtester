@@ -1,5 +1,4 @@
 #usr/bin/python3
-#Recode Boleh.. Asalkan Nama Dibawah Jangan Dihapus Ya
 #Contact Me, Darul Febri at WhatsApp :0819-9720-0360
 
 import time
