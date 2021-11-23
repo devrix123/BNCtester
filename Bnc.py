@@ -12,6 +12,7 @@ hasil= WAKTU1 - WAKTU0
 os.system("clear")
 print("  BNC TESTER")
 print(" ")
+#a little style doesn't make people mad, does it?
 print("MENGUJI PERANGKAT....")
 for i in tqdm(range(1000)):
 	time.sleep(0.01)
