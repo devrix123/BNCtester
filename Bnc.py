@@ -1,5 +1,5 @@
 #usr/bin/python3
-#Contact Me, Darul Febri at WhatsApp :0819-9720-0360
+
 
 import time
 import os
