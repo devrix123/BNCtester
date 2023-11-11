@@ -6,8 +6,8 @@ import os
 from tqdm import tqdm
 
 skor = 0
-WAKTU0= time.clock()
-WAKTU1= time.clock()
+WAKTU0= time.time()
+WAKTU1= time.time()
 hasil= WAKTU1 - WAKTU0
 os.system("clear")
 print("  BNC TESTER")
